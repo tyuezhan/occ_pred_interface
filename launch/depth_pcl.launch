@@ -31,7 +31,7 @@
         <remap from="camera_info" to="camera_info"/>
         <remap from="image_rect" to="voxl_depth_image_rect"/>
         <remap from="points"  to="points_depth" />
-        <param name="range_max" value="3.5" />
+        <param name="range_max" value="5.0" />
     </node>
 
   </group>
